@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for training - DevOps Techlab</h1>
+    <h1>New user Register for training - Docker</h1>
     <p>Testing Git access</p>
     <hr>
      
